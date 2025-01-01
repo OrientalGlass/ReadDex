@@ -1,0 +1,8 @@
+# ninja log v6
+39	958	7565508219818165	CMakeFiles/ReadDex.dir/main.cpp.obj	66f992144cb333aa
+2311	2864	7565508242532225	ReadDex.exe	15ff4cefca6800a7
+115	2310	7565508220588164	CMakeFiles/ReadDex.dir/DexFile.cpp.obj	22462ec58f1ffa33
+15	1953	7565810979868917	build.ninja	57558b4d199ee5c5
+47	1243	7568930582113066	CMakeFiles/ReadDex.dir/main.cpp.obj	66f992144cb333aa
+139	4599	7568930583048352	CMakeFiles/ReadDex.dir/DexFile.cpp.obj	22462ec58f1ffa33
+4599	5438	7568930627633365	ReadDex.exe	15ff4cefca6800a7
